@@ -1,70 +1,104 @@
-# Getting Started with Create React App
+<h3><b>Generate Random Color</b></h3>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# 📖 Generate Random Color <a name="about-project"></a>
 
-## Available Scripts
+A simple React application to generate and display random colors. The app allows users to switch between Hex and RGB color formats and generate random colors with a click of a button.
 
-In the project directory, you can run:
+## 🛠 Built With <a name="built-with"></a>
 
-### `npm start`
+### Tech Stack <a name="tech-stack"></a>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="#">React</a></li>
+  </ul>
+</details>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="#">CSS</a></li>
+  </ul>
+</details>
 
-### `npm test`
+## 💻 Getting Started <a name="getting-started"></a>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+1. Go to this URL link: [Generate Random Color](https://github.com/hamzaw9/generate-random-color)
+2. clone the repo and start working on it.
 
-### `npm run build`
+### Prerequisites
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Google Chrome or other browser
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```sh
+  https://www.google.com/chrome/?brand=JJTC&gclid=CjwKCAjw9J2iBhBPEiwAErwpeSDcMFWiIQWj2u5GY6owZ7OaOHw7dYYCHW7uTR4kvYosNJYd4wt4VxoCiywQAvD_BwE&gclsrc=aw.ds
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Github Account:
 
-### `npm run eject`
+```sh
+  https://github.com/
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Npm installed:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```sh
+  https://nodejs.org/en/download
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Git installed:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```sh
+  https://git-scm.com/downloads/
+```
 
-## Learn More
+### Setup
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Clone this repository to your desired folder:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Example commands:
 
-### Code Splitting
+```sh
+  cd folder-name
+  git clone https://github.com/hamzaw9/generate-random-color
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+### Usage
 
-### Analyzing the Bundle Size
+To run the project, execute the following command:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+```sh
+  cd generate-random-color
+npm i
+npm start
+```
 
-### Making a Progressive Web App
+## 👥 Author <a name="authors"></a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+👤 **Hamza Baig**
 
-### Advanced Configuration
+- GitHub: [@hamzabaig](https://github.com/hamzaw9)
+- LinkedIn: [@hamzabaig](https://www.linkedin.com/in/hamzabaig-/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Deployment
+## 🤝 Contributing <a name="contributing"></a>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Contributions, issues, and feature requests are welcome!
 
-### `npm run build` fails to minify
+Feel free to check the [issues page](https://github.com/hamzaw9/generate-random-color/issues).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## ⭐️ Show your support <a name="support"></a>
+
+If you find this project helpful and informative, please consider giving it a star. Your support and feedback are greatly appreciated and will motivate me to continue creating high-quality projects in the future.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank **freeCodeCamp**.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
